@@ -10,7 +10,7 @@ function DefaultMenu(props) {
       }>
       <a
         rel="noreferrer noopener"
-        href="https://github.com/ahmedaziz703/Ahmed-Aziz"
+        href="https://github.com/ahmedaziz703/Ubuntu-Ahmed"
         target="_blank"
         className="w-full block cursor-default py-0.5 hover:bg-ub-warm-grey hover:bg-opacity-20 mb-1.5">
         <span className="ml-5">🌟</span>{" "}
@@ -18,7 +18,7 @@ function DefaultMenu(props) {
       </a>
       <a
         rel="noreferrer noopener"
-        href="https://github.com/ahmedaziz703/Ahmed-Aziz/issues"
+        href="https://github.com/ahmedaziz703/Ubuntu-Ahmed/issues"
         target="_blank"
         className="w-full block cursor-default py-0.5 hover:bg-ub-warm-grey hover:bg-opacity-20 mb-1.5">
         <span className="ml-5">❗</span>{" "}
