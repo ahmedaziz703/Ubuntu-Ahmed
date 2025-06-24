@@ -184,7 +184,7 @@ function About() {
       </div>
       <div className=" mt-4 md:mt-8 text-lg md:text-2xl text-center px-1">
         <div>
-          my name is <span className="font-bold">Ahmed Al-rages</span> ,
+          my name is <span className="font-bold">Ahmed Al-regas</span> ,
         </div>
         <div className="font-normal ml-1">
           I'm a{" "}
