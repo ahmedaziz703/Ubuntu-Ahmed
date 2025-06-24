@@ -178,7 +178,7 @@ function About() {
       <div className="w-20 md:w-28 my-4 bg-white rounded-full">
         <img
           className="w-full"
-          src="./images/logos/bitmoji.JPG"
+          src="./images/logos/bitmoji.jpg"
           alt="dawidolko Patel Logo"
         />
       </div>
