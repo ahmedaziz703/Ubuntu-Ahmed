@@ -83,7 +83,7 @@
                     children: "|",
                   }),
                   (0, i.jsx)("a", {
-                    href: "https://github.com/ahmedaziz703/Ahmed-Aziz",
+                    href: "https://github.com/ahmedaziz703/Ubuntu-Ahmed",
                     rel: "noreferrer noopener",
                     target: "_blank",
                     className: "underline",
@@ -2182,7 +2182,7 @@
             desktop_shortcut: !1,
             screen: function () {
               return (0, i.jsx)("iframe", {
-                src: "https://github1s.com/ahmedaziz703/Ahmed-Aziz",
+                src: "https://github1s.com/ahmedaziz703/Ubuntu-Ahmed",
                 frameBorder: "0",
                 title: "VsCode",
                 className: "h-full w-full bg-ub-cool-grey",
@@ -2854,7 +2854,7 @@
           children: [
             (0, i.jsxs)("a", {
               rel: "noreferrer noopener",
-              href: "https://github.com/ahmedaziz703/Ahmed-Aziz",
+              href: "https://github.com/ahmedaziz703/Ubuntu-Ahmed",
               target: "_blank",
               className:
                 "w-full block cursor-default py-0.5 hover:bg-ub-warm-grey hover:bg-opacity-20 mb-1.5",
@@ -2872,7 +2872,7 @@
             }),
             (0, i.jsxs)("a", {
               rel: "noreferrer noopener",
-              href: "https://github.com/ahmedaziz703/Ahmed-Aziz/issues",
+              href: "https://github.com/ahmedaziz703/Ubuntu-Ahmed/issues",
               target: "_blank",
               className:
                 "w-full block cursor-default py-0.5 hover:bg-ub-warm-grey hover:bg-opacity-20 mb-1.5",
