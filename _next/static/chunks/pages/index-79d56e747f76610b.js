@@ -2166,7 +2166,7 @@
           },
           {
             id: "about-dawidolko",
-            title: "About Ahmed Al-rages",
+            title: "About Ahmed Al-regas",
             icon: "./themes/Yaru/system/user-home.png",
             disabled: !1,
             favourite: !0,
