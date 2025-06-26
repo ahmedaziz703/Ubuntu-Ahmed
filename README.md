@@ -133,7 +133,7 @@ Please attach screenshots or GIFs when altering the UI.
 ## License & Author
 
 * **License:** MIT – free to use, tweak, and share 🔓
-* **Author:** **Dawid Olko**
+* **Author:** **Ahmed Al-regas**
 
   * Portfolio [https://portfolio-orcin-seven-1mk53kxuyx.vercel.app/](https://portfolio-orcin-seven-1mk53kxuyx.vercel.app/)
   * GitHub [https://github.com/ahmedaziz703](https://github.com/ahmedaziz703)
