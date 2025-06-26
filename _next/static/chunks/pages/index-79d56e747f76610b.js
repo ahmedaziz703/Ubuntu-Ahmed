@@ -1875,7 +1875,7 @@
         return (0, i.jsx)("iframe", {
           className: "h-full w-full",
           src: "./files/cv_ver1.pdf",
-          title: "Dawid Olko resume",
+          title: "Ahmed Al-regas resume",
           frameBorder: "0",
         });
       }
