@@ -267,7 +267,7 @@ export class Terminal extends Component {
         break;
       case "pwd":
         let str = this.current_directory;
-        result = str.replace("~", "/home/dawidolko");
+        result = str.replace("~", "/home/AhmedAlregas");
         break;
       case "code":
         if (words[0] === "." || words.length === 0) {
